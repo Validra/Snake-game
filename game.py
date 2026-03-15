@@ -1,8 +1,8 @@
 def update_game():
     speed = 5
-    points = 0
-    food = "apple"
+    points = 10
+    food = "banana"
     print("Start gry")
     print("Predkosc:", speed)
-    print("Punkty:", points)
+    print("Punkty po zjedzeniu:", points)
     print("Jedzenie:", food)
