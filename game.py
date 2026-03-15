@@ -1,7 +1,7 @@
 def update_game():
     speed = 8
-    points = 0
-    food = "apple"
+    points = 10
+    food = "banana"
     direction = "RIGHT"
     print("Start gry")
     print("Kierunek:", direction)
